@@ -4,7 +4,7 @@ A lightweight, command-line interface (CLI) tool written in Python that allows u
 
 ## Prerequisites
 
-* **Python & IDLE:** Ensure Python 3.+ is installed on your system.
+* **Python & IDLE:** Ensure Python 3.6+ is installed on your system.
 
   * You can download it from the official website: [python.org/downloads](https://www.python.org/downloads/?utm_source=gemini).
 
