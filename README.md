@@ -6,7 +6,7 @@ A lightweight, command-line interface (CLI) tool written in Python that allows u
 
 * **Python & IDLE:** Ensure Python 3.6+ is installed on your system.
 
-  * You can download it from the official website: [python.org/downloads](https://www.python.org/downloads/?utm_source=gemini).
+  * You can download it from the official website: [python.org/downloads](https://www.python.org/downloads/).
 
   * **CRITICAL FOR CMD:** When installing Python, make sure to check the box at the bottom of the installer that says **"Add Python to PATH"**. This is required to run the program from your Command Prompt.
 
@@ -16,9 +16,9 @@ A lightweight, command-line interface (CLI) tool written in Python that allows u
 
 ### Installing Git
 
-* **Windows:** Download the official installer from [git-scm.com/download/win](https://git-scm.com/download/win?utm_source=gemini) and follow the setup wizard, or open Command Prompt and run `winget install --id Git.Git -e --source winget`.
+* **Windows:** Download the official installer from [git-scm.com/download/win](https://git-scm.com/download/win) and follow the setup wizard, or open Command Prompt and run `winget install --id Git.Git -e --source winget`.
 
-* **macOS:** Download the installer from [git-scm.com/download/mac](https://git-scm.com/download/mac?utm_source=gemini), or open Terminal and install via Homebrew by running `brew install git`.
+* **macOS:** Download the installer from [git-scm.com/download/mac](https://git-scm.com/download/mac), or open Terminal and install via Homebrew by running `brew install git`.
 
 * **Linux (Ubuntu/Debian):** Open Terminal and execute `sudo apt update` followed by `sudo apt install git`.
 
