@@ -47,7 +47,7 @@ A lightweight, command-line interface (CLI) tool written in Python that allows u
 2. Launch the application by executing the following command in your Command Prompt/Terminal:
 
    ```
-   python "currency converter.py"
+   python "main.py"
    
    ```
 
